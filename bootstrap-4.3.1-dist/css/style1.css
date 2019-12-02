@@ -1,0 +1,15 @@
+form {
+    width: 40%;
+    background: #eee;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: inset 0px 0px 22px 1px #bbb;
+}
+
+label {
+    width: 100%;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 18px;
+}

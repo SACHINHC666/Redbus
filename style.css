@@ -1,0 +1,178 @@
+body {
+ background: whitesmoke;  
+}
+.navbar {
+    background: #d84f57 !important;
+    color: whitesmoke !important;
+    position: relative;
+    width: 100%;
+    font-size: small;
+    font-weight: 700;
+    padding: 0;
+}
+
+.jumbotron {
+    background: url(./images/Hero-banner-19th-updated.png);
+    width: 100%;
+    background-size: cover;
+    height: 450px;
+    border-radius: 0;
+    margin-top: -69px;
+}
+
+.justify-content-center {
+    background: black;
+}
+
+.justify-content-center {
+    position: relative;
+    top: 145px;
+    border: 1px solid gray;
+    width: fit-content;
+    left: 221px;
+}
+
+.signin img {
+    position: relative;
+    margin: 5px;
+    padding: 0px;
+    width: 30px;
+    height: 30px;
+    background: whitesmoke;
+    border-radius: 20px;
+}
+
+button {
+    background: #d84f57;    
+    height: 44px;
+    margin: -3px;
+}
+
+input {
+    height: 44px;
+    margin: -3px;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: relative;
+    margin: -42px -1px -10px -128px;
+    
+}
+
+.promo {
+    margin-left: 347px;
+    margin-top: 0;
+    background: white;
+    position: relative;
+    display: inline-block;
+    padding: 0;
+    width: 50%;
+    height: 100px;
+    bottom: 90px;
+}
+
+h1 {
+    position: relative;
+    /* left: 111px; */
+    bottom: 85px;
+    font-size: larger;
+    text-align: center;
+
+}
+p {
+    position: relative;
+    text-align: center;
+    /* bottom: 86px; */
+    bottom: 90px;
+}
+
+/* .offer {
+    display: flow-root;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 19px;
+}
+
+.offer-img {
+    position: relative;
+    
+}
+
+.fixed-offer {
+    position: relative;
+    top: -111px;
+    left: 33px;
+}
+
+.btm-offer {
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    margin-left: 25px;
+} */
+
+.card-title {
+    font-size: 12px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.card {
+    /* margin-left: -25px;
+    margin-right: 22px; */
+    height: 267px;
+    width: 350px;
+    top: -120px;
+}
+
+.c1 , .c2 {
+    margin-right: 20px;
+}
+
+.cd {
+    position: relative;
+    top: 70px;
+}
+
+/* a {
+    color: white;
+} */
+
+.collapse{
+    margin-right: 2.5em;
+}
+
+.navbar-brand {
+    margin-left: 2.5em;
+}
+
+.under {
+    border-bottom: 3px solid whitesmoke;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: whitesmoke;
+}
+
+.bot {
+    position: relative;
+    box-sizing: border-box;
+    left: 100px;
+    top: -52px;
+    width: 81%;
+}
+
+.bot2 img {
+    position: relative;
+    height: 193px;
+    top: -262px;
+    left: 119px;
+    width: 31%;
+    border: 2px solid white;
+}
+
+
+
+.navbar-nav {
+    height: 40px;
+}
